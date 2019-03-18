@@ -20,7 +20,6 @@
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
     "mocha": "^6.0.2",
-    "nodemon": "^1.18.10",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3"
   }
