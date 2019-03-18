@@ -19,4 +19,22 @@ automatically
 - Getting the total days needed for a given list of projects (assuming that projects can‘t be worked on
 parallel) 
 
+## installation
+
+```Shell
+npm i
+```
+
+## testing
+
+```Shell
+npm run test
+```
+
+## building
+
+```Shell
+npm run build
+```
+
 [Tests on Travis CI](https://travis-ci.com/fooloomanzoo/pms)
